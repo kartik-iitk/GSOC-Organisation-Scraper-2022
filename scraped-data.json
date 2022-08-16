@@ -1,0 +1,1588 @@
+{
+    "organisations": [
+        {
+            "name": "sktime",
+            "short-description": "A unified framework for ML with time series",
+            "technologies": "python, github, sphinx, scikit-learn",
+            "topics": "data science, ai, time series, toolbox frameworks",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/sktime",
+            "org-link": "https://www.sktime.org/en/stable/"
+        },
+        {
+            "name": "GNU Octave",
+            "short-description": "Free Your Numbers",
+            "technologies": "c++, hg",
+            "topics": "mathematics, scientific computing, numerical computation, numerical methods, matlab",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/gnu-octave",
+            "org-link": "https://www.octave.org/"
+        },
+        {
+            "name": "The Julia Language",
+            "short-description": "A fresh approach to technical computing",
+            "technologies": "machine learning, julia, data science, gui, models",
+            "topics": "math, machine learning, science, data science, graphs",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/the-julia-language",
+            "org-link": "https://julialang.org/"
+        },
+        {
+            "name": "52\u00b0North Spatial Information Research GmbH",
+            "short-description": "Innovative ideas & technologies in geoinformatics",
+            "technologies": "javascript, android, java, web services, ogc standards",
+            "topics": "citizen science, spatial information infrastructures, open standards, data analytics, Geoinformation",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/52north-spatial-information-research-gmbh",
+            "org-link": "https://52north.org/"
+        },
+        {
+            "name": "Orcasound",
+            "short-description": "Humans & AI listening together to save the whales.",
+            "technologies": "python, javascript, raspberry pi, elixir, NextJs",
+            "topics": "web, audio, ai, acoustics, community science",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/orcasound",
+            "org-link": "https://orcasound.net/"
+        },
+        {
+            "name": "Git",
+            "short-description": "Fast,Scalable,Distributed revision control system",
+            "technologies": "shell script, git, c language",
+            "topics": "version control, dvcs",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/git",
+            "org-link": "https://git-scm.com/"
+        },
+        {
+            "name": "Monado",
+            "short-description": "Monado, the free and open source XR platform",
+            "technologies": "opengl, vulkan, openxr, Graphics, XR",
+            "topics": "vr, xr, AR",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/monado",
+            "org-link": "https://monado.freedesktop.org/"
+        },
+        {
+            "name": "Ste||ar group",
+            "short-description": "Shaping a Scalable Future",
+            "technologies": "c++, hpc",
+            "topics": "library, optimization, parallel algorithms, hpx, application",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/stear-group",
+            "org-link": "http://stellar-group.org/"
+        },
+        {
+            "name": "OpenStreetMap",
+            "short-description": "Create and distribute free geodata for the world",
+            "technologies": "python, javascript, java, c++, sql",
+            "topics": "databases, routing, gis, ui, geocoding",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/openstreetmap",
+            "org-link": "https://www.openstreetmap.org/"
+        },
+        {
+            "name": "DBpedia",
+            "short-description": "Global and Unified Access to Knowledge Graphs.",
+            "technologies": "python, javascript, java, scala, rdf",
+            "topics": "natural language processing, semantic web, linked data, knowledge graph, data extraction",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/dbpedia",
+            "org-link": "https://www.dbpedia.org/"
+        },
+        {
+            "name": "Audacity",
+            "short-description": "Free, open source, cross-platform audio software",
+            "technologies": "c++, qt, cmake, wxwidgets, VST",
+            "topics": "audio, editing, compression, Sound, Effects",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/audacity",
+            "org-link": "https://www.audacityteam.org/"
+        },
+        {
+            "name": "Dart",
+            "short-description": "Dart is a client language for apps on any platform",
+            "technologies": "flutter, dart",
+            "topics": "programming languages, mobile apps",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/dart",
+            "org-link": "https://dart.dev/"
+        },
+        {
+            "name": "MBDyn",
+            "short-description": "Open Source Multibody Simulation",
+            "technologies": "python, c++",
+            "topics": "robotics, scientific computing, multibody dynamics, aeroelasticity, Structural engineering",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/mbdyn",
+            "org-link": "http://www.mbdyn.org/"
+        },
+        {
+            "name": "AFLplusplus",
+            "short-description": "State of the art fuzzing for better security",
+            "technologies": "llvm, rust, fuzzing, qemu",
+            "topics": "fuzzing, ci",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/aflplusplus",
+            "org-link": "https://aflplus.plus/"
+        },
+        {
+            "name": "Eclipse Foundation",
+            "short-description": "The Global Open Source Foundation",
+            "technologies": "java, che, deeplearning, eclipsejavaide, jakartaee",
+            "topics": "robotics, automotive, tools, cloud native java, iot & edge",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/eclipse-foundation",
+            "org-link": "https://www.eclipse.org/"
+        },
+        {
+            "name": "KDE Community",
+            "short-description": "International team developing Open Source software",
+            "technologies": "c++, qt, qml, data structures",
+            "topics": "education, science, applications, desktop environment",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/kde-community",
+            "org-link": "https://kde.org/"
+        },
+        {
+            "name": "CRIU",
+            "short-description": "Chekpoint/Restore for Linux tasks and containers",
+            "technologies": "c, python, linux, go",
+            "topics": "cloud, containers, Checkpoint/Restore",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/criu",
+            "org-link": "https://criu.org/"
+        },
+        {
+            "name": "Unikraft",
+            "short-description": "Unikraft is a fast and secure unikernel SDK",
+            "technologies": "c, python, xen, kvm, assembly language",
+            "topics": "virtualization, cloud, software reuse, software configurability",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/unikraft",
+            "org-link": "https://unikraft.org/"
+        },
+        {
+            "name": "OpenAFS",
+            "short-description": "An opensource distributed filesystem product.",
+            "technologies": "c, python, git, ansible, filesystems",
+            "topics": "testing, network, storage, filesystems",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/openafs",
+            "org-link": "https://www.openafs.org/"
+        },
+        {
+            "name": "mlpack",
+            "short-description": "a fast, flexible machine learning library",
+            "technologies": "c++, C++ template metaprogramming",
+            "topics": "machine learning, embedded, ai, deep learning, Neural networks",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/mlpack",
+            "org-link": "https://www.mlpack.org/"
+        },
+        {
+            "name": "OpenAstronomy",
+            "short-description": "Look at the Universe with the power of open source",
+            "technologies": "python, javascript, julia, css",
+            "topics": "astronomy, solar physics, high energy astrophysics",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/openastronomy",
+            "org-link": "https://openastronomy.org/"
+        },
+        {
+            "name": "moja global",
+            "short-description": "Collaboration for change",
+            "technologies": "python, javascript, c++, docker, Data-Science",
+            "topics": "climate monitoring, nature based solutions, land system modelling",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/moja-global",
+            "org-link": "https://moja.global/"
+        },
+        {
+            "name": "The Honeynet Project",
+            "short-description": "Honeypots and Threat Intelligence R&D",
+            "technologies": "python, javascript, django, go, docker",
+            "topics": "honeypots, malware analysis, Threat Intelligence",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/the-honeynet-project",
+            "org-link": "https://honeynet.org/"
+        },
+        {
+            "name": "ArduPilot",
+            "short-description": "World's most advanced autonomous vehicle software",
+            "technologies": "python, lua, c++, pixhawk",
+            "topics": "robotics, Drone, autonomous vehicle, UGV, unmanned vehicle",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/ardupilot",
+            "org-link": "https://ardupilot.org/"
+        },
+        {
+            "name": "PowerDNS",
+            "short-description": "PowerDNS provides open source DNS software",
+            "technologies": "c++, DNS",
+            "topics": "DNS recursive solutions, Authoritative DNS software",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/powerdns",
+            "org-link": "https://www.powerdns.com/"
+        },
+        {
+            "name": "LibreCube Initiative",
+            "short-description": "Open Source Space and Earth Exploration",
+            "technologies": "python, mongodb, rest, micropython, zmq",
+            "topics": "space, cubesat, mission control, Communication Protocols",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/librecube-initiative",
+            "org-link": "https://librecube.org/"
+        },
+        {
+            "name": "Ruby",
+            "short-description": "Ruby is an object-oriented programming language",
+            "technologies": "ruby on rails, ruby, rubygems, bundler",
+            "topics": "security, web",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/ruby",
+            "org-link": "https://www.ruby-lang.org/"
+        },
+        {
+            "name": "QEMU",
+            "short-description": "Open source machine emulator and virtualizer",
+            "technologies": "c, python, linux, rust",
+            "topics": "systems programming, kernel, compiler, emulator, hypervisor",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/qemu",
+            "org-link": "https://qemu.org/"
+        },
+        {
+            "name": "MetaCall",
+            "short-description": "Simplifying the embedding of programming languages",
+            "technologies": "python, c++, rust, nodejs, docker",
+            "topics": "cloud, polyglot, faas, languages, ffi",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/metacall",
+            "org-link": "https://metacall.io/"
+        },
+        {
+            "name": "BRL-CAD",
+            "short-description": "3D CAD & other computer-aided tech (CAx)",
+            "technologies": "python, c/c++, opengl, opencl, scripting",
+            "topics": "geometry, 2d/3d graphics, ray tracing, high-performance computing, conversion standards",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/brl-cad",
+            "org-link": "https://opencax.github.io/"
+        },
+        {
+            "name": "Intel Video and Audio for Linux",
+            "short-description": "We enable Linux Audio and Video for Intel",
+            "technologies": "c/c++, opengl, Codec, Media, Imaging",
+            "topics": "media, imaging, Codec",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/intel-video-and-audio-for-linux",
+            "org-link": "https://01.org/linuxmedia"
+        },
+        {
+            "name": "Liquid Galaxy project",
+            "short-description": "We code immersive and interactive aps with G Earth",
+            "technologies": "python, linux, android, flutter, Google Earth",
+            "topics": "visualization, networking, maps, cluster, ux",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/liquid-galaxy-project",
+            "org-link": "https://www.liquidgalaxy.eu/"
+        },
+        {
+            "name": "PEcAn Project",
+            "short-description": "Develop and promote tools for ecosystem modeling",
+            "technologies": "r, docker, api, geospatial",
+            "topics": "data science, ecosystem models, scientific visualization, climate science, Ecological Forecasting,",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/pecan-project",
+            "org-link": "https://pecanproject.github.io/"
+        },
+        {
+            "name": "Micro Electronics Research Lab - UITU",
+            "short-description": "Accelerating Engineering Innovation",
+            "technologies": "RISCV, Processor, Hardware, systemonchip, memory",
+            "topics": "iot, embedded, Processor, System on Chip, RISC-V",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/micro-electronics-research-lab-uitu",
+            "org-link": "https://www.merledupk.org/"
+        },
+        {
+            "name": "Submitty",
+            "short-description": "Homework Autograding and Course Management Tools",
+            "technologies": "python, postgresql, javascript, c++, php",
+            "topics": "education, visualization, web, privacy/security, communication",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/submitty",
+            "org-link": "https://submitty.org/"
+        },
+        {
+            "name": "Matrix.org",
+            "short-description": "Open, secure, decentralised communication",
+            "technologies": "python, javascript, rust",
+            "topics": "interoperability, decentralisation, Secure Messaging",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/matrixorg",
+            "org-link": "https://matrix.org/"
+        },
+        {
+            "name": "JabRef e.V.",
+            "short-description": "Open Source bibliography manager",
+            "technologies": "java, javafx, bibtex",
+            "topics": "science, library, literature, latex",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/jabref-ev",
+            "org-link": "https://www.jabref.org/"
+        },
+        {
+            "name": "TianoCore",
+            "short-description": "Modern, open source, UEFI BIOS firmware",
+            "technologies": "c, python, rust, golang, uefi",
+            "topics": "firmware, uefi, edk2, acpi, BIOS",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/tianocore",
+            "org-link": "https://www.tianocore.org/"
+        },
+        {
+            "name": "CGAL Project",
+            "short-description": "C++ library of computational geometry",
+            "technologies": "c++, qt",
+            "topics": "geometry, mesh processing, computation geometry, geometry processing",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/cgal-project",
+            "org-link": "https://www.cgal.org/"
+        },
+        {
+            "name": "Chromium",
+            "short-description": "Fast, seamless, safe, and reliable web for all",
+            "technologies": "python, javascript, java, c++, git",
+            "topics": "web, browser, operating-system",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/chromium-lj",
+            "org-link": "https://chromium.org/"
+        },
+        {
+            "name": "Software Heritage",
+            "short-description": "The universal source code archive",
+            "technologies": "python, postgresql, javascript, django, git",
+            "topics": "big data, digital preservation, source code management, floss, big code",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/software-heritage",
+            "org-link": "https://www.softwareheritage.org/"
+        },
+        {
+            "name": "X.Org Foundation",
+            "short-description": "X Window System and related projects (Mesa, DRI, Wayland, etc.)",
+            "technologies": "opengl, vulkan, x11, wayland, DRM",
+            "topics": "graphics, drivers",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/xorg-foundation",
+            "org-link": "https://www.x.org/"
+        },
+        {
+            "name": "Center for Translational Data Science",
+            "short-description": "Develop translational data science.",
+            "technologies": "python, aws",
+            "topics": "bioinformatics, data science, cloud, Data Meshes",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/center-for-translational-data-science",
+            "org-link": "https://ctds.uchicago.edu/"
+        },
+        {
+            "name": "SymPy",
+            "short-description": "SymPy is a Python library for symbolic mathematics",
+            "technologies": "python, numpy, jupyter",
+            "topics": "mathematics, physics, symbolic mathematics",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/sympy",
+            "org-link": "https://www.sympy.org/"
+        },
+        {
+            "name": "CHAOSS",
+            "short-description": "Community Health Analytics Open Source Software",
+            "technologies": "python, postgresql, javascript, machine learning, airflow",
+            "topics": "Diversity Equity and Inclusion, open source software metrics, software sustainability, community building, security and software bill of materials",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/chaoss",
+            "org-link": "https://chaoss.community/"
+        },
+        {
+            "name": "Xfce",
+            "short-description": "Lightweight and flexible linux desktop environment",
+            "technologies": "c, gtk",
+            "topics": "desktop, customization",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/xfce",
+            "org-link": "https://www.xfce.org/"
+        },
+        {
+            "name": "National Resource for Network Biology (NRNB)",
+            "short-description": "Developing open source tools for network biology",
+            "technologies": "python, javascript, java, xml, r",
+            "topics": "web application, data science, graphics, scientific computing, network biology",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/national-resource-for-network-biology-nrnb",
+            "org-link": "https://nrnb.org/gsoc.html"
+        },
+        {
+            "name": "Rizin",
+            "short-description": "Rizin reverse engineering framework and toolset",
+            "technologies": "c, python, c++, qt",
+            "topics": "reverse engineering, computer security, debugging, emulation, disassembly",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/rizin",
+            "org-link": "https://rizin.re/"
+        },
+        {
+            "name": "Inkscape",
+            "short-description": "Draw freely!",
+            "technologies": "python, c++, svg",
+            "topics": "web, graphics, design",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/inkscape",
+            "org-link": "https://inkscape.org/"
+        },
+        {
+            "name": "Forschungszentrum J\u00fclich",
+            "short-description": "Shaping change: open source for Big Science",
+            "technologies": "python, mpi, high performance computing, pytorch, gpu",
+            "topics": "neuroscience, data analytics, astrophysics, data-intensive science, earth-system monitoring",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/forschungszentrum-julich",
+            "org-link": "https://fz-juelich.de/en"
+        },
+        {
+            "name": "Electron",
+            "short-description": "Cross-platform desktop apps with web technologies",
+            "technologies": "javascript, node.js, c++, typescript, Chromium",
+            "topics": "desktop, framework, javascript",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/electron",
+            "org-link": "https://electronjs.org/"
+        },
+        {
+            "name": "omegaUp",
+            "short-description": "Open CS Education as a catalyst for social change",
+            "technologies": "python, mysql, php, typescript, vue.js",
+            "topics": "education, web, cloud, edtech, UX/UI",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/omegaup",
+            "org-link": "https://omegaup.org/"
+        },
+        {
+            "name": "Keptn",
+            "short-description": "Event-driven orchestration of cloud-native apps",
+            "technologies": "golang, kubernetes, angular, Helm",
+            "topics": "cloud, devops, sre, CloudNative, Operations",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/keptn",
+            "org-link": "https://keptn.sh/"
+        },
+        {
+            "name": "Neutralinojs",
+            "short-description": "Lightweight cross-platform desktop app framework",
+            "technologies": "c, javascript, node.js, c++, typescript",
+            "topics": "desktop, framework, cross-platform, Application Development",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/neutralinojs",
+            "org-link": "https://neutralino.js.org/"
+        },
+        {
+            "name": "Open Technologies Alliance - GFOSS",
+            "short-description": "Promote Open Standards and Open Source",
+            "technologies": "javascript, c/c++, nodejs, python 3, Machine Learning (ML)",
+            "topics": "web, robotics, open hardware, c++, nodered",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/open-technologies-alliance-gfoss",
+            "org-link": "http://www.gfoss.eu/"
+        },
+        {
+            "name": "ScummVM",
+            "short-description": "Adventure and RPG preservation project",
+            "technologies": "opengl, lua, c++, assembly, sdl",
+            "topics": "games, game engines, software preservation, software archeology",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/scummvm",
+            "org-link": "https://www.scummvm.org/"
+        },
+        {
+            "name": "MariaDB",
+            "short-description": "The fastest growing Open Source Database",
+            "technologies": "python, javascript, c/c++, perl, databases",
+            "topics": "Database Engines, SQL Features",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/mariadb",
+            "org-link": "https://mariadb.org/"
+        },
+        {
+            "name": "Open Robotics",
+            "short-description": "Development of open source robotics",
+            "technologies": "ros, gazebo, ignition, Open-RMF",
+            "topics": "robotics, simulation",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/open-robotics",
+            "org-link": "https://www.openrobotics.org/"
+        },
+        {
+            "name": "SCoRe Lab",
+            "short-description": "SCoRe Lab develops FOSS softwares for everyone!!!",
+            "technologies": "python, java, go, nodejs, reactjs",
+            "topics": "security, web, machine learning, cloud",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/score-lab",
+            "org-link": "https://scorelab.org/"
+        },
+        {
+            "name": "CNCF",
+            "short-description": "Building sustainable ecosystems for cloud native",
+            "technologies": "prometheus, kubernetes, OpenTelemetry, envoy",
+            "topics": "cloud, cloud native, observability",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/cncf",
+            "org-link": "https://cncf.io/"
+        },
+        {
+            "name": "libssh",
+            "short-description": "The SSH library",
+            "technologies": "c, ssh",
+            "topics": "security, cryptography",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/libssh",
+            "org-link": "https://www.libssh.org/"
+        },
+        {
+            "name": "Apache Software Foundation",
+            "short-description": "Open source software to the public free of charge",
+            "technologies": "c, java, c++",
+            "topics": "big data, cloud, libraries, other",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/apache-software-foundation",
+            "org-link": "https://apache.org/"
+        },
+        {
+            "name": "Cuneiform Digital Library Initiative (CDLI)",
+            "short-description": "Curating humanity's oldest written sources",
+            "technologies": "mysql, javascript, docker, php, SCSS",
+            "topics": "linguistics, History, culture",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/cuneiform-digital-library-initiative-cdli",
+            "org-link": "https://cdli.ucla.edu/"
+        },
+        {
+            "name": "Oppia Foundation",
+            "short-description": "Free platform for interactive, tutor-like lessons",
+            "technologies": "python, android, google app engine, angular, typescript",
+            "topics": "education, web, community, nonprofit, social impact",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/oppia-foundation",
+            "org-link": "https://www.oppia.org/"
+        },
+        {
+            "name": "Our World In Data",
+            "short-description": "Explaining the world's biggest problems with data",
+            "technologies": "python, mysql, d3, typescript, pandas",
+            "topics": "open data, data visualisation, Data cataloging",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/our-world-in-data",
+            "org-link": "https://ourworldindata.org/"
+        },
+        {
+            "name": "CERN-HSF",
+            "short-description": "Umbrella for Particle Physics-related projects",
+            "technologies": "python, c/c++, data analysis, artificial intelligence, container orchestration",
+            "topics": "machine learning, big data, algorithmics, particle physics, Performance Optimisation",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/cern-hsf",
+            "org-link": "http://hepsoftwarefoundation.org/activities/gsoc.html"
+        },
+        {
+            "name": "AOSSIE",
+            "short-description": "Australian Umbrella Org for Open-Source Projects",
+            "technologies": "python, javascript, machine learning, scala, Blockchain",
+            "topics": "machine learning, electronic voting, natural language processing, social science",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/aossie",
+            "org-link": "https://aossie.gitlab.io/"
+        },
+        {
+            "name": "Wellcome Sanger Tree of Life",
+            "short-description": "Genome analysis across the whole tree of life",
+            "technologies": "python, javascript, rust, nextflow",
+            "topics": "genomics, bioinformatics, data analysis, genome assembly",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/wellcome-sanger-institute",
+            "org-link": "https://www.sanger.ac.uk/programme/tree-of-life/"
+        },
+        {
+            "name": "CHIPS Alliance",
+            "short-description": "Open source IP, tools & standards for ASIC/FPGA",
+            "technologies": "fpga, chisel, risc-v, systemverilog, ASIC",
+            "topics": "soc, IP cores, ASIC design, HDL, chiplets",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/chips-alliance",
+            "org-link": "https://chipsalliance.org/"
+        },
+        {
+            "name": "checkstyle",
+            "short-description": "Helps to adheres of Java coding standard",
+            "technologies": "java, antlr",
+            "topics": "static code analysis, code review tool, coding standards, coding conventions",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/checkstyle",
+            "org-link": "https://checkstyle.org/"
+        },
+        {
+            "name": "Society for Arts and Technology (SAT)",
+            "short-description": "Create teleimmersive multisensorial experiences.",
+            "technologies": "python, javascript, opengl, c++, supercollider",
+            "topics": "web, graphics, cloud, multimedia, accessibility",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/society-for-arts-and-technology-sat",
+            "org-link": "https://sat.qc.ca/"
+        },
+        {
+            "name": "Jenkins",
+            "short-description": "Jenkins, build great things at any scale",
+            "technologies": "javascript, java, go, docker, kubernetes",
+            "topics": "developer tools, automation, continuous integration, continuous delivery, devops",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/jenkins-wp",
+            "org-link": "https://jenkins.io/"
+        },
+        {
+            "name": "JdeRobot",
+            "short-description": "Toolkit for developing Robotics applications",
+            "technologies": "python, ros, gazebo, opencv, tensorflow",
+            "topics": "education, artificial intelligence, robotics, computer vision, developer tools",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/jderobot",
+            "org-link": "http://jderobot.github.io/"
+        },
+        {
+            "name": "The Tor Project",
+            "short-description": "Defend yourself against tracking and surveillance.",
+            "technologies": "c, python, rust",
+            "topics": "security, privacy, anti-censorship, Human Rights, Surveillance",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/the-tor-project",
+            "org-link": "https://www.torproject.org/"
+        },
+        {
+            "name": "coreboot",
+            "short-description": "Fast, secure and flexible BIOS firmware",
+            "technologies": "c, assembly, arm, x86",
+            "topics": "hardware, drivers, firmware, boot loader, BIOS",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/coreboot",
+            "org-link": "https://coreboot.org/"
+        },
+        {
+            "name": "RADAR-base",
+            "short-description": "Improve people's quality of life using patient generated data",
+            "technologies": "java, kotlin, docker, angular, kafka",
+            "topics": "web, mhealth, remote patient monitoring, micro-services, devices",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/radar-base",
+            "org-link": "https://radar-base.org/"
+        },
+        {
+            "name": "IOOS",
+            "short-description": "Our eyes on the ocean, coasts, and Great Lakes",
+            "technologies": "python, ocean science",
+            "topics": "open data, data science",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/ioos",
+            "org-link": "https://ioos.noaa.gov/"
+        },
+        {
+            "name": "Joplin",
+            "short-description": "The open source note taking application",
+            "technologies": "javascript, react, typescript, electron, React-Native",
+            "topics": "database, search, synchronisation, note-taking, office",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/joplin",
+            "org-link": "https://joplinapp.org/"
+        },
+        {
+            "name": "Genome Assembly and Annotation",
+            "short-description": "Providing freely accessible genomic data",
+            "technologies": "python, mysql, docker, pytorch, nextflow",
+            "topics": "machine learning, genomics, big data, cloud, hpc",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/genome-assembly-and-annotation",
+            "org-link": "https://www.ebi.ac.uk/"
+        },
+        {
+            "name": "LEAP Encryption Access Project",
+            "short-description": "Privacy should not be a priviledge",
+            "technologies": "java, golang, qt5, docker, ansible",
+            "topics": "privacy, vpn, Circumvention",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/leap-encryption-access-project",
+            "org-link": "https://leap.se/"
+        },
+        {
+            "name": "FreeType",
+            "short-description": "FreeType is a software library to render fonts.",
+            "technologies": "c, autotools, meson",
+            "topics": "library, rendering, fonts, opentype, truetype",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/freetype",
+            "org-link": "https://freetype.org/"
+        },
+        {
+            "name": "ReactOS Foundation",
+            "short-description": "Open your windows to freedom!",
+            "technologies": "c, c++, win32, nt",
+            "topics": "operating systems, kernel, drivers, windows, system programming",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/reactos-foundation",
+            "org-link": "https://reactos.org/"
+        },
+        {
+            "name": "Joomla!",
+            "short-description": "The flexible platform empowering website creators.",
+            "technologies": "mysql, javascript, html, php, css",
+            "topics": "web, programming languages, web development, web applications, cms",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/joomla",
+            "org-link": "https://www.joomla.org/"
+        },
+        {
+            "name": "The ns-3 Network Simulator Project",
+            "short-description": "ns-3 is a simulation tool for computer networks.",
+            "technologies": "python, django, c++",
+            "topics": "computer networking, network simulation",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/the-ns-3-network-simulator-project",
+            "org-link": "https://www.nsnam.org/"
+        },
+        {
+            "name": "Open3D team",
+            "short-description": "A Modern Library for 3D Data Processing",
+            "technologies": "python, c++, cuda, tensorflow, pytorch",
+            "topics": "3D machine learning, 3D data processing, 3D visualization, physically based rendering",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/open3d-team",
+            "org-link": "http://www.open3d.org/"
+        },
+        {
+            "name": "Learning Equality",
+            "short-description": "Equity in education to transform lives",
+            "technologies": "python, javascript, django, vue.js",
+            "topics": "education, distributed databases, offline, learning",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/learning-equality",
+            "org-link": "https://learningequality.org/"
+        },
+        {
+            "name": "The ENIGMA Team",
+            "short-description": "A free rapid game development environment.",
+            "technologies": "opengl, c++, qt5",
+            "topics": "graphics, game development, compiler, programming, game design",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/the-enigma-team",
+            "org-link": "https://enigma-dev.org/"
+        },
+        {
+            "name": "TensorFlow",
+            "short-description": "TensorFlow is a ML framework for everyone.",
+            "technologies": "machine learning, tensorflow, ai, Jax, keras",
+            "topics": "education, research, machine learning",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/tensorflow",
+            "org-link": "https://tensorflow.org/"
+        },
+        {
+            "name": "MIT App Inventor",
+            "short-description": "Anyone can build apps with global impact.",
+            "technologies": "javascript, java, gwt",
+            "topics": "education, development tools, android",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/mit-app-inventor",
+            "org-link": "http://appinventor.mit.edu/"
+        },
+        {
+            "name": "MoveIt",
+            "short-description": "Moving robots into the future",
+            "technologies": "ros, c++",
+            "topics": "robotics, motion planning, trajectory generation, kinematics",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/moveit",
+            "org-link": "https://moveit.ros.org/"
+        },
+        {
+            "name": "GNU Compiler Collection (GCC)",
+            "short-description": "GNU compilers",
+            "technologies": "c/c++, gnu make, gnu autotools",
+            "topics": "compilers, developer tools, toolchain, openmp, link time optimization",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/gnu-compiler-collection-gcc",
+            "org-link": "https://gcc.gnu.org/"
+        },
+        {
+            "name": "RTEMS Project",
+            "short-description": "A real-time operating system for Earth & Space",
+            "technologies": "python, c/c++, assembly, posix",
+            "topics": "kernel, embedded, real-time, multicore, rtos",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/rtems-project",
+            "org-link": "https://www.rtems.org/"
+        },
+        {
+            "name": "AnkiDroid",
+            "short-description": "AnkiDroid makes remembering things easy",
+            "technologies": "android, java, rust, kotlin, mobile",
+            "topics": "education, mobile, android, user generated content, Flashcards",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/ankidroid",
+            "org-link": "https://github.com/ankidroid/Anki-Android"
+        },
+        {
+            "name": "Open Genome Informatics",
+            "short-description": "Open access genomics and bioinformatics projects",
+            "technologies": "python, mysql, react, r-project, graph",
+            "topics": "genomics, bioinformatics, cloud, biology, data discovery",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/open-genome-informatics",
+            "org-link": "http://gmod.org/wiki/GSoC"
+        },
+        {
+            "name": "Mathesar",
+            "short-description": "Webapp providing a UX-first interface to databases",
+            "technologies": "python, postgresql, javascript, django, svelte",
+            "topics": "databases, web, data, nonprofit, self-hosted",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/mathesar",
+            "org-link": "https://wiki.mathesar.org/"
+        },
+        {
+            "name": "Sugar Labs",
+            "short-description": "Learning software for children",
+            "technologies": "python, gtk, typescript, javascipt",
+            "topics": "education, games, desktop",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/sugar-labs",
+            "org-link": "https://sugarlabs.org/"
+        },
+        {
+            "name": "Open Food Facts",
+            "short-description": "Better food choices for your health & the planet",
+            "technologies": "python, machine learning, perl, tensorflow, flutter",
+            "topics": "open data, health, environment, mobile, food",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/open-food-facts",
+            "org-link": "https://world.openfoodfacts.org/discover"
+        },
+        {
+            "name": "MZmine",
+            "short-description": "Open-source software for mass spectrometry",
+            "technologies": "java, javafx",
+            "topics": "visualization, mass spectrometry, biochemistry, feature detection, ion mobility",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/mzmine",
+            "org-link": "https://www.mzmine.org/"
+        },
+        {
+            "name": "Haskell.org",
+            "short-description": "Purely functional programming language",
+            "technologies": "haskell, ghc",
+            "topics": "compilers, programming languages, functional programming, programming tools",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/haskellorg",
+            "org-link": "https://haskell.org/"
+        },
+        {
+            "name": "Global Alliance for Genomics and Health",
+            "short-description": "We develop genomics tools to benefit human health",
+            "technologies": "python, postgresql, java, react, rust",
+            "topics": "web, genomics, bioinformatics, genetics, standards",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/global-alliance-for-genomics-and-health",
+            "org-link": "https://ga4gh.org/"
+        },
+        {
+            "name": "GNU Image Manipulation Program",
+            "short-description": "GIMP is a cross-platform image editor",
+            "technologies": "c, GEGL",
+            "topics": "graphics, design, photography, illustration",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/gnu-image-manipulation-program",
+            "org-link": "https://www.gimp.org/"
+        },
+        {
+            "name": "Wagtail",
+            "short-description": "The powerful Python CMS for modern websites",
+            "technologies": "python, javascript, django",
+            "topics": "web, accessibility, cms",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/wagtail",
+            "org-link": "https://wagtail.org/"
+        },
+        {
+            "name": "TARDIS RT Collaboration",
+            "short-description": "Exploring supernovae made easy",
+            "technologies": "python, numba, numpy, jupyter, pandas",
+            "topics": "visualization, big data, simulation, astrophysics",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/tardis-rt-collaboration",
+            "org-link": "https://tardis-sn.github.io/"
+        },
+        {
+            "name": "Internet Health Report",
+            "short-description": "Monitoring the Internet",
+            "technologies": "python, javascript, apache kafka, VueJS",
+            "topics": "networking, routing, communication, internet, data analytics",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/internet-health-report",
+            "org-link": "https://ihr.iijlab.net/"
+        },
+        {
+            "name": "Free and Open Source Silicon Foundation",
+            "short-description": "Working together for Free and Open Source Silicon",
+            "technologies": "verilog, risc-v, compiler, web development",
+            "topics": "hardware, debug, web services, simulation, electronic design tools",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/free-and-open-source-silicon-foundation",
+            "org-link": "https://www.fossi-foundation.org/"
+        },
+        {
+            "name": "Organic Maps",
+            "short-description": "Offline maps app for tourists, cyclers & hikers",
+            "technologies": "android, java, c++, ios, OpenStreetMap",
+            "topics": "privacy, maps, navigation, mobile, offline",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/organic-maps",
+            "org-link": "https://organicmaps.app/"
+        },
+        {
+            "name": "The NetBSD Foundation",
+            "short-description": "Of course it runs NetBSD",
+            "technologies": "c, shell script, make, unix, bsd",
+            "topics": "kernel, packaging, userland, unix, bsd",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/the-netbsd-foundation",
+            "org-link": "https://www.netbsd.org/"
+        },
+        {
+            "name": "Responsible AI and Human Centred Technology",
+            "short-description": "Human-centered and responsible AI for all",
+            "technologies": "python, javascript, Technical writing",
+            "topics": "machine learning, ai, Fairness, Robustness, Safety, Interpretibility",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/responsible-ai-and-human-centred-technology",
+            "org-link": "https://www.tensorflow.org/responsible_ai"
+        },
+        {
+            "name": "Blender Foundation",
+            "short-description": "The Freedom to Create",
+            "technologies": "c, python, opengl, c++, vulkan",
+            "topics": "games, graphics, 3d, rendering, animation",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/blender-foundation",
+            "org-link": "https://www.blender.org/"
+        },
+        {
+            "name": "Machine Learning for Science (ML4SCI)",
+            "short-description": "Machine learning applications in science",
+            "technologies": "python, machine learning, c++, data analysis, artificial intelligence",
+            "topics": "machine learning, science and medicine, algorithms, physics, astronomy",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/machine-learning-for-science-ml4sci",
+            "org-link": "https://ml4sci.org/"
+        },
+        {
+            "name": "VideoLAN",
+            "short-description": "Open source believers rocking the multimedia world",
+            "technologies": "c, c++, qt, assembly, video",
+            "topics": "audio, streaming, video, codecs, media database",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/videolan",
+            "org-link": "https://www.videolan.org/"
+        },
+        {
+            "name": "PostgreSQL",
+            "short-description": "The Most Advanced Open Source Relational Database",
+            "technologies": "c, python, postgresql, javascript, sql",
+            "topics": "web, database, ui, sql, Benchmark",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/postgresql",
+            "org-link": "https://postgresql.org/"
+        },
+        {
+            "name": "strace",
+            "short-description": "Linux syscall tracer",
+            "technologies": "c, shell, make, autotools, gawk",
+            "topics": "debugging, tracing, diagnostic",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/strace",
+            "org-link": "https://strace.io/"
+        },
+        {
+            "name": "SageMath",
+            "short-description": "Open-source mathematics software system",
+            "technologies": "python, cython",
+            "topics": "mathematics, education, research",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/sagemath",
+            "org-link": "https://www.sagemath.org/"
+        },
+        {
+            "name": "Jitsi",
+            "short-description": "State-of-the-art video conferencing",
+            "technologies": "javascript, java, react, webrtc, react native",
+            "topics": "video conferencing, WebRTC",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/jitsi",
+            "org-link": "https://jitsi.org/"
+        },
+        {
+            "name": "OpenVINO Toolkit",
+            "short-description": "Make AI inference faster and easier to deploy!",
+            "technologies": "python, c++, x86",
+            "topics": "deep learning, Neural networks, Edge AI, DL-inference",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/openvino-toolkit",
+            "org-link": "https://docs.openvino.ai/"
+        },
+        {
+            "name": "Ceph",
+            "short-description": "The Future of Storage",
+            "technologies": "python, javascript, c++",
+            "topics": "distributed systems, Software-Defined-Storage",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/ceph",
+            "org-link": "https://ceph.io/en/"
+        },
+        {
+            "name": "CircuitVerse.org",
+            "short-description": "Build and learn logic circuits in the cloud!",
+            "technologies": "javascript, rails, canvas",
+            "topics": "education, web, simulation, pedagogy, digital logic design",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/circuitverseorg",
+            "org-link": "http://circuitverse.org/"
+        },
+        {
+            "name": "JBoss Community",
+            "short-description": "Community of projects around JBoss Middleware",
+            "technologies": "java, rust, golang",
+            "topics": "iot, cloud, microservices, kubernetes",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/jboss-community",
+            "org-link": "http://www.jboss.org/"
+        },
+        {
+            "name": "Kodi",
+            "short-description": "The ultimate entertainment center",
+            "technologies": "python, opengl, c++, ffmpeg, sqlite",
+            "topics": "games, audio, video, media, tv",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/kodi",
+            "org-link": "https://kodi.tv/"
+        },
+        {
+            "name": "OpenCV",
+            "short-description": "++ beneficial uses of computer vision in society",
+            "technologies": "python, c++, deep learning, ai",
+            "topics": "robotics, computer vision, ai, deep learning",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/opencv",
+            "org-link": "https://opencv.org/"
+        },
+        {
+            "name": "FFmpeg",
+            "short-description": "Record, convert and stream audio & video",
+            "technologies": "c, git, asm",
+            "topics": "audio, video, subtitles, multimedia",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/ffmpeg",
+            "org-link": "https://ffmpeg.org/"
+        },
+        {
+            "name": "Flashrom",
+            "short-description": "Reading, writing, verifying, erasing flash chips",
+            "technologies": "c, x86, bios, rom, spi",
+            "topics": "hardware, drivers, firmware, flash chips, low level programming",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/flashrom",
+            "org-link": "https://www.flashrom.org/"
+        },
+        {
+            "name": "XMPP Standards Foundation",
+            "short-description": "XSF develops an open-standard messaging protocol",
+            "technologies": "javascript, java, go, vala, xmpp",
+            "topics": "instant messaging, chat, WebRTC, Jingle, Real-Time Communication",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/xmpp-standards-foundation",
+            "org-link": "https://xmpp.org/"
+        },
+        {
+            "name": "Django Software Foundation",
+            "short-description": "Web framework for perfectionists with deadlines",
+            "technologies": "python, django",
+            "topics": "web, python",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/django-software-foundation-8o",
+            "org-link": "https://www.djangoproject.com/"
+        },
+        {
+            "name": "MDAnalysis",
+            "short-description": "Analysis of molecular simulations data with Python",
+            "technologies": "python, cython, c/c++",
+            "topics": "science, computational-chemistry, high-performance-computing, molecular-simulation, soft-matter-physics",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/mdanalysis",
+            "org-link": "https://www.mdanalysis.org/"
+        },
+        {
+            "name": "OWASP Foundation",
+            "short-description": "No more insecure software.",
+            "technologies": "python, javascript, java, ZAP, Juice Shop",
+            "topics": "web, cloud, application security, cybersecurity, DevSecOps",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/owasp-foundation",
+            "org-link": "https://owasp.org/"
+        },
+        {
+            "name": "AboutCode",
+            "short-description": "Scan code for origin, license and vulnerabilities",
+            "technologies": "python, javascript, Django+PostgreSQL, C/Rust/Go",
+            "topics": "dependencies, vulnerabilities, SoftwareCompositionAnalysis, License, SBOM",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/aboutcode",
+            "org-link": "https://aboutcode.org/"
+        },
+        {
+            "name": "Haiku",
+            "short-description": "Operating system that targets personal computing.",
+            "technologies": "c++, posix, unix",
+            "topics": "desktop, kernel",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/haiku",
+            "org-link": "https://www.haiku-os.org/"
+        },
+        {
+            "name": "Purr Data",
+            "short-description": "Realtime Audio/Visual Programming Environment",
+            "technologies": "c, javascript, html5, Emscripten",
+            "topics": "web, graphics, audio, realtime",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/purr-data",
+            "org-link": "https://www.purrdata.net/"
+        },
+        {
+            "name": "Semi Technologies",
+            "short-description": "The ML-first vector search engine",
+            "technologies": "python, machine learning, golang, vectors, natural language processing",
+            "topics": "machine learning, Vector Database, Search Engines",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/semi-technologies",
+            "org-link": "https://weaviate.io/"
+        },
+        {
+            "name": "OSGeo (Open Source Geospatial Foundation)",
+            "short-description": "The Open Source Geospatial Foundation",
+            "technologies": "c, python, javascript, java, c++",
+            "topics": "open science, gis, citizen science, geolocation, mapping",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/osgeo-open-source-geospatial-foundation",
+            "org-link": "https://www.osgeo.org/"
+        },
+        {
+            "name": "Public Lab",
+            "short-description": "Tools for communities to measure pollution",
+            "technologies": "javascript, ruby on rails",
+            "topics": "science, environment, community, documentation, forum",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/public-lab",
+            "org-link": "https://publiclab.org/"
+        },
+        {
+            "name": "Swift",
+            "short-description": "Fast, safe, and expressive programming language",
+            "technologies": "c++, cmake, swift",
+            "topics": "compilers, cross-platform, Packages, Server development, Standard Libraries",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/swift",
+            "org-link": "https://swift.org/"
+        },
+        {
+            "name": "XWiki",
+            "short-description": "The Advanced Open Source Enterprise Wiki",
+            "technologies": "javascript, java, html5, css3, velocity",
+            "topics": "web development, wiki, platform, web applications, structured data",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/xwiki",
+            "org-link": "https://www.xwiki.org/"
+        },
+        {
+            "name": "GitLab",
+            "short-description": "Everyone can contribute",
+            "technologies": "javascript, ruby on rails, go, ruby, vue",
+            "topics": "cloud, devops",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/gitlab",
+            "org-link": "https://gitlab.com/"
+        },
+        {
+            "name": "International Catrobat Association",
+            "short-description": "Free visual coding apps for computational thinking",
+            "technologies": "javascript, android, swift, kotlin, php",
+            "topics": "education, visual programming, mobile programming, game engines, creativity tools",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/international-catrobat-association",
+            "org-link": "https://www.catrobat.org/"
+        },
+        {
+            "name": "Center for Research in Open Source Software (CROSS)",
+            "short-description": "Amplifying Research Imapct through Open Source",
+            "technologies": "python, c/c++, verilog, apache arrow, matlab/simulink",
+            "topics": "hardware, data science, networking, data management, systems",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/center-for-research-in-open-source-software-cross",
+            "org-link": "https://cross.ucsc.edu/"
+        },
+        {
+            "name": "LLVM Compiler Infrastructure",
+            "short-description": "LLVM Compiler Infrastructure",
+            "technologies": "llvm, c++, clang, mlir",
+            "topics": "compilers, development tools, libraries",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/llvm-compiler-infrastructure",
+            "org-link": "http://www.llvm.org/"
+        },
+        {
+            "name": "GNU Radio",
+            "short-description": "The free & open software radio ecosystem",
+            "technologies": "python, c++, qt, simd",
+            "topics": "real-time, dsp, communications engineering, cybersecurity, Software-Defined Radio",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/gnu-radio",
+            "org-link": "https://www.gnuradio.org/"
+        },
+        {
+            "name": "Metasploit",
+            "short-description": "World\u2019s most used penetration testing framework",
+            "technologies": "c, python, postgresql, ruby, assembly",
+            "topics": "security, penetration testing, offensive security, exploitation",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/metasploit",
+            "org-link": "https://metasploit.com/"
+        },
+        {
+            "name": "Red Hen Lab",
+            "short-description": "Research on Multimodal Communication",
+            "technologies": "python, machine learning, computer vision, nlp, data science",
+            "topics": "data science, media, language, multimodal communication, gesture",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/red-hen-lab",
+            "org-link": "http://www.redhenlab.org/"
+        },
+        {
+            "name": "Mixxx",
+            "short-description": "DJ Mixing App With Powerful Features For All DJs",
+            "technologies": "javascript, c++, qt",
+            "topics": "music, dj, streaming",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/mixxx",
+            "org-link": "https://mixxx.org/"
+        },
+        {
+            "name": "Jenkins X",
+            "short-description": "Accelerate Your Continuous Delivery on Kubernetes",
+            "technologies": "golang, kubernetes, gitops",
+            "topics": "cloud, CI/CD",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/jenkins-x",
+            "org-link": "https://jenkins-x.io/"
+        },
+        {
+            "name": "Homebrew",
+            "short-description": "The Missing Package Manager for macOS (or Linux)",
+            "technologies": "linux, ruby, macos",
+            "topics": "linux, package manager, macos",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/homebrew",
+            "org-link": "https://brew.sh/"
+        },
+        {
+            "name": "RoboComp",
+            "short-description": "Open-source framework to develop robot components",
+            "technologies": "python, opencv, c++, qt, pytorch",
+            "topics": "robotics, computer vision, component-based development, Multi-agent Systems",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/robocomp",
+            "org-link": "https://robocomp.github.io/web/"
+        },
+        {
+            "name": "Processing Foundation",
+            "short-description": "To empower all people to learn to program",
+            "technologies": "python, javascript, android, java, opengl",
+            "topics": "education, web, graphics, creative coding, design",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/processing-foundation",
+            "org-link": "http://processingfoundation.org/"
+        },
+        {
+            "name": "rocket.chat",
+            "short-description": "Open source team chat and communications platform",
+            "technologies": "javascript, raspberry pi, typescript, node, meteorJS",
+            "topics": "communications, messaging, group chat, Team Collaboration, Chat platform",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/rocketchat",
+            "org-link": "https://github.com/RocketChat"
+        },
+        {
+            "name": "Plone Foundation",
+            "short-description": "Python-based CMS, with React front-end.",
+            "technologies": "python, javascript, react",
+            "topics": "web, cms",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/plone-foundation",
+            "org-link": "https://plone.org/"
+        },
+        {
+            "name": "The Linux Foundation",
+            "short-description": "Non-profit consortium fostering growth of Linux",
+            "technologies": "c, linux, c++, cups, ipp",
+            "topics": "kernel, automotive, printing, iio, zephyr",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/the-linux-foundation",
+            "org-link": "http://www.linuxfoundation.org/"
+        },
+        {
+            "name": "OpenMRS",
+            "short-description": "Write Code, Save Lives.",
+            "technologies": "mysql, javascript, java, fhir, Cypress",
+            "topics": "platform, Electronic Medical Record System",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/openmrs",
+            "org-link": "https://openmrs.org/"
+        },
+        {
+            "name": "The JPF team",
+            "short-description": "JPF is a special JVM for software verification",
+            "technologies": "android, java, distributed systems, jvm",
+            "topics": "model checking, symbolic execution, verification of concurrent systems, program analysis, test input generation",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/the-jpf-team",
+            "org-link": "https://github.com/javapathfinder/jpf-core/wiki"
+        },
+        {
+            "name": "Robolectric",
+            "short-description": "Fast unit testing runtime for Android",
+            "technologies": "android, java, jvm, asm",
+            "topics": "testing, mobile",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/robolectric",
+            "org-link": "http://robolectric.org/"
+        },
+        {
+            "name": "Mayor's Office of New Urban Mechanics",
+            "short-description": "Exploring new approaches to civic life.",
+            "technologies": "python, javascript, ruby, tensorflow",
+            "topics": "web, machine learning, gis, civic tech, analytics",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/mayors-office-of-new-urban-mechanics",
+            "org-link": "https://www.boston.gov/mechanics"
+        },
+        {
+            "name": "FRRouting",
+            "short-description": "Routing suite including BGP, IS-IS, LDP, OSPF, PIM",
+            "technologies": "c, linux, networking, linux kernel, routing",
+            "topics": "networking, software defined networking, linux, routing, systems",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/frrouting",
+            "org-link": "https://frrouting.org/"
+        },
+        {
+            "name": "Open Bioinformatics Foundation (OBF)",
+            "short-description": "Open Source & Open Science in biological research",
+            "technologies": "python, javascript, c++, html/css, Git/GitHub",
+            "topics": "open science, genomics, bioinformatics, workflows, Open Source Bioinformatics",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/open-bioinformatics-foundation-obf",
+            "org-link": "https://www.open-bio.org/"
+        },
+        {
+            "name": "Python Software Foundation",
+            "short-description": "A programming language used for science & more",
+            "technologies": "python, javascript, sqlite",
+            "topics": "security, database, science, design",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/python-software-foundation",
+            "org-link": "https://python-gsoc.org/"
+        },
+        {
+            "name": "Performance Co-Pilot",
+            "short-description": "System performance analysis",
+            "technologies": "c, grafana, redis, htop, sysstat",
+            "topics": "metrics, visualization, distributed, performance, observability",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/performance-co-pilot",
+            "org-link": "https://pcp.io/"
+        },
+        {
+            "name": "The Palisadoes Foundation",
+            "short-description": "Transforming non-profit organizations in the cloud",
+            "technologies": "mongodb, node.js, flutter, graphql, typescript",
+            "topics": "web, api, database, cloud, mobile",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/the-palisadoes-foundation",
+            "org-link": "https://www.palisadoes.org/"
+        },
+        {
+            "name": "Department of Biomedical Informatics, Emory University",
+            "short-description": "Biomedical research to advance healthcare",
+            "technologies": "python, javascript, java, workflows, dicom",
+            "topics": "science and medicine, data integration, workflows, radiology, distributed system",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/department-of-biomedical-informatics-emory-university",
+            "org-link": "https://med.emory.edu/departments/biomedical-informatics/"
+        },
+        {
+            "name": "Synfig",
+            "short-description": "Open-source 2D animation software",
+            "technologies": "python, c++, gtk, gtkmm",
+            "topics": "2d/3d graphics, animation, vector graphics",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/synfig",
+            "org-link": "https://synfig.org/"
+        },
+        {
+            "name": "Fortran-lang",
+            "short-description": "High-performance parallel programming language",
+            "technologies": "python, c++, fortran",
+            "topics": "compilers, programming languages, build systems, libraries, Fortran",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/fortran-lang",
+            "org-link": "https://fortran-lang.org/"
+        },
+        {
+            "name": "GNSS-SDR",
+            "short-description": "An open source GNSS software-defined receiver",
+            "technologies": "c, c++, sdr",
+            "topics": "gnss, geolocation, navigation, software defined radio, communications",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/gnss-sdr",
+            "org-link": "https://gnss-sdr.org/"
+        },
+        {
+            "name": "LibreHealth",
+            "short-description": "Healthcare for Humanity",
+            "technologies": "python, javascript, android, java, dart/flutter",
+            "topics": "web, deep learning, hfoss, radiology, mobile apps",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/librehealth",
+            "org-link": "https://librehealth.io/"
+        },
+        {
+            "name": "Drupal Association",
+            "short-description": "The best open source digital experience platform",
+            "technologies": "mysql, javascript, html, php, symfony",
+            "topics": "web, cloud, DXP, Massive community, Inclusive",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/drupal-association",
+            "org-link": "https://drupal.org/"
+        },
+        {
+            "name": "GeomScale",
+            "short-description": "Scalable geometric and statistical software",
+            "technologies": "python, c++, r, jupyter, github-actions",
+            "topics": "mathematics, data science, computational biology, computational geometry, statistics",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/geomscale",
+            "org-link": "https://geomscale.github.io/"
+        },
+        {
+            "name": "cBioPortal for Cancer Genomics",
+            "short-description": "Aid discovery in complex cancer genomics data",
+            "technologies": "mysql, javascript, java, react, typescript",
+            "topics": "genomics, cancer, bioinformatics, big data, precision medicine",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/cbioportal-for-cancer-genomics",
+            "org-link": "https://www.cbioportal.org/"
+        },
+        {
+            "name": "INCF",
+            "short-description": "An open & FAIR neuroscience standards organization",
+            "technologies": "python, javascript, java, c++, gpu",
+            "topics": "machine learning, data visualization, neuroscience, brain modelling, neuroimage processing",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/incf",
+            "org-link": "https://www.incf.org/"
+        },
+        {
+            "name": "Casbin",
+            "short-description": "Authorization library that supports RBAC and ABAC",
+            "technologies": "javascript, java, go, OIDC, OAuth",
+            "topics": "security, cloud, authorization, IAM, Authentication",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/casbin",
+            "org-link": "https://casbin.org/"
+        },
+        {
+            "name": "GRAME",
+            "short-description": "Domain specific language for audio",
+            "technologies": "c, python, javascript, c++, typescript",
+            "topics": "audio, compiler, digital signal processing, function programming language",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/grame",
+            "org-link": "https://faust.grame.fr/"
+        },
+        {
+            "name": "freifunk",
+            "short-description": "Free and open wireless networks",
+            "technologies": "c, python, javascript, openwrt, gnu/linux",
+            "topics": "embedded systems, open hardware, routing, wireless networks, federation",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/freifunk",
+            "org-link": "https://freifunk.net/en"
+        },
+        {
+            "name": "syslog-ng",
+            "short-description": "Enhanced log daemon, w/ wide range of I/O methods",
+            "technologies": "c, python, sql, elasticsearch, kafka",
+            "topics": "cloud, data processing pipeline, reliable log transfer, logging, high-performance data processing",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/syslog-ng",
+            "org-link": "https://www.syslog-ng.com/"
+        },
+        {
+            "name": "The FreeBSD Project",
+            "short-description": "FreeBSD: An OS for servers to embedded systems",
+            "technologies": "c, llvm, assembly, make, POSIX shell",
+            "topics": "virtualization, operating system, Embedded System",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/the-freebsd-project",
+            "org-link": "https://www.freebsd.org/"
+        },
+        {
+            "name": "Godot Engine",
+            "short-description": "Multi-platform 2D and 3D game engine",
+            "technologies": "opengl, c++, vulkan, webassembly",
+            "topics": "graphics, cross-platform, game engine, game development, programming",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/godot-engine",
+            "org-link": "https://godotengine.org/"
+        },
+        {
+            "name": "MuseScore",
+            "short-description": "The World\u2019s Most Popular Music Notation Software",
+            "technologies": "c++, qt, qml, cmake",
+            "topics": "music, midi, musicxml, sheet music, music notation",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/musescore",
+            "org-link": "https://musescore.org/"
+        },
+        {
+            "name": "OpenWISP",
+            "short-description": "The Hackable Network Management System",
+            "technologies": "python, javascript, django, lua, openwrt",
+            "topics": "networking, network management system, wifi, vpn, sdn",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/openwisp",
+            "org-link": "https://openwisp.org/"
+        },
+        {
+            "name": "Scala Center",
+            "short-description": "Guide and support the Scala community",
+            "technologies": "scala, scala.js, scala native",
+            "topics": "education, compilers, tooling",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/scala-center",
+            "org-link": "https://scala.epfl.ch/"
+        },
+        {
+            "name": "NumFOCUS",
+            "short-description": "NumFOCUS promotes open source scientific software.",
+            "technologies": "python, c++, r, julia",
+            "topics": "data science, graphics, scientific computing, numerical computation",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/numfocus",
+            "org-link": "https://numfocus.org/"
+        },
+        {
+            "name": "The Mifos Initiative",
+            "short-description": "End Poverty One Line of Code at a Time",
+            "technologies": "android, java, kotlin, spring, angular",
+            "topics": "cloud, ai, fintech, financial inclusion, mobile banking",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/the-mifos-initiative",
+            "org-link": "https://mifos.org/"
+        },
+        {
+            "name": "Polypheny",
+            "short-description": "The distributed and self-adaptive polystore",
+            "technologies": "javascript, java, sql, angular",
+            "topics": "database, big data, cloud, polystore, nosql",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/polypheny",
+            "org-link": "https://polypheny.org/"
+        },
+        {
+            "name": "R project for statistical computing",
+            "short-description": "R software for statistical computing & graphics",
+            "technologies": "c, javascript, c++, r-project, fortran",
+            "topics": "visualization, machine learning, data science, graphics, statistics",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/r-project-for-statistical-computing",
+            "org-link": "https://www.r-project.org/"
+        },
+        {
+            "name": "libcamera",
+            "short-description": "Provide an open source camera stack for linux",
+            "technologies": "c/c++, linux kernel, qt5, gstreamer, v4l2",
+            "topics": "camera, image prcessing",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/libcamera",
+            "org-link": "https://libcamera.org/"
+        },
+        {
+            "name": "LibreOffice",
+            "short-description": "LibreOffice is a free and open source office suite",
+            "technologies": "python, java, c++",
+            "topics": "office suite, desktop application, end user application",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/libreoffice",
+            "org-link": "https://www.libreoffice.org/"
+        },
+        {
+            "name": "Zulip",
+            "short-description": "Modern team chat app designed for efficiency.",
+            "technologies": "python, django, typescript, react native, electron",
+            "topics": "mobile, great developer tooling, visual design, teaching quality codebase, team chat",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/zulip",
+            "org-link": "https://zulip.com/"
+        },
+        {
+            "name": "FOSSology",
+            "short-description": "Open Source License Compliance by OSS",
+            "technologies": "python, postgresql, c/c++, php, reactjs",
+            "topics": "automation, spdx, license compliance, nlp, compliance automation",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/fossology",
+            "org-link": "https://fossology.org/"
+        },
+        {
+            "name": "SeaQL",
+            "short-description": "Building data intensive applications in Rust",
+            "technologies": "mysql, postgresql, rust, sql, sqlite",
+            "topics": "database, library, framework, sql, rust",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/seaql",
+            "org-link": "https://sea-ql.org/"
+        },
+        {
+            "name": "libvirt",
+            "short-description": "Virtualization abstraction library",
+            "technologies": "kvm, hypervisor, qemu, lxc",
+            "topics": "virtualization, library",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/libvirt",
+            "org-link": "https://libvirt.org/"
+        },
+        {
+            "name": "BeagleBoard.org",
+            "short-description": "Open hardware computing for educators and makers",
+            "technologies": "linux, fpga, risc-v, dsp, Zephyr RTOS",
+            "topics": "robotics, iot, ai, software defined radio, Personal Server",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/beagleboardorg",
+            "org-link": "https://beagleboard.org/"
+        },
+        {
+            "name": "Kart Project",
+            "short-description": "Distributed version-control for geospatial data",
+            "technologies": "python, c++, git, gis",
+            "topics": "version control, gis, data, point clouds, spatial",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/kart-project",
+            "org-link": "https://kartproject.org/"
+        },
+        {
+            "name": "SPDX",
+            "short-description": "An open ISO standard for SBOMs",
+            "technologies": "python, java, json, go, rdf",
+            "topics": "compliance, licensing, data, vulnerabilities",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/spdx",
+            "org-link": "https://spdx.dev/"
+        },
+        {
+            "name": "Debian",
+            "short-description": "The Universal Operating System",
+            "technologies": "c, python, java, ruby, perl",
+            "topics": "web, robotics, graphics, cloud, SDR",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/debian",
+            "org-link": "https://debian.org/"
+        },
+        {
+            "name": "MetaBrainz Foundation Inc",
+            "short-description": "Open music / book metadata, music recommendations",
+            "technologies": "python, react, perl, postgres, spark",
+            "topics": "open data, music, books, Music recommendation, music social network",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/metabrainz-foundation-inc",
+            "org-link": "https://metabrainz.org/"
+        },
+        {
+            "name": "GNOME Foundation",
+            "short-description": "A diverse and sustainable free software desktop.",
+            "technologies": "c, linux, rust, gtk, Flatpak",
+            "topics": "operating systems, desktop, graphics, open source, apps",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/gnome-foundation",
+            "org-link": "https://gnome.org/"
+        },
+        {
+            "name": "CCExtractor Development",
+            "short-description": "TV, rust, flutter, linux and C.",
+            "technologies": "c, linux, rust, flutter",
+            "topics": "video, subtitles, mobile, peer to peer",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/ccextractor-development",
+            "org-link": "https://www.ccextractor.org/"
+        },
+        {
+            "name": "Open Chemistry",
+            "short-description": "Advancing Open Source & Open Science for Chemistry",
+            "technologies": "python, javascript, opengl, c++, c++14",
+            "topics": "data science, graphics, scientific visualization, cheminformatics, quantum chemistry",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/open-chemistry",
+            "org-link": "https://openchemistry.org/"
+        },
+        {
+            "name": "Wikimedia Foundation",
+            "short-description": "Brings free educational content to the world",
+            "technologies": "python, javascript, html, php, css",
+            "topics": "semantic web, wikipedia, wikimedia, mediawiki, i18n",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/wikimedia-foundation",
+            "org-link": "http://wikimediafoundation.org/"
+        },
+        {
+            "name": "Gentoo Foundation",
+            "short-description": "A flexible, source-based Linux distribution.",
+            "technologies": "c, python, shell, linux, bash",
+            "topics": "operating systems, security, embedded, init, package",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/gentoo-foundation",
+            "org-link": "https://www.gentoo.org/"
+        },
+        {
+            "name": "openSUSE Project",
+            "short-description": "openSUSE is the makers' choice for sysadmins, developers and desktop",
+            "technologies": "python, linux, rust, Testing, configuration management",
+            "topics": "operating systems, software quality, developer tools, containers, edge",
+            "gsoc-org-link": "https://summerofcode.withgoogle.com/programs/2022/organizations/opensuse-project",
+            "org-link": "https://get.opensuse.org/"
+        }
+    ]
+}
